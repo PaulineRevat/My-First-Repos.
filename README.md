@@ -1,2 +1,2 @@
 # My-First-Repos.
-Hi all, this is my first repository in GitHub.
+Hello, this is my first repository in GitHub.
